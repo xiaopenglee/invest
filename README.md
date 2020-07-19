@@ -29,7 +29,7 @@ V1.0 Created by 十七亩 on 25/05/2020
 1. [富投网](http://www.richvest.com/index.php?m=cb&a=cb_all#)
 2. [集思录](https://www.jisilu.cn/data/cbnew/#cb)
 
-##1.3、可转债每周投资记录
+## 1.3、可转债每周投资记录
 
 [目录](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record)
 
