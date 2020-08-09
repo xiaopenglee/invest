@@ -22,25 +22,28 @@ V1.0 Created by 十七亩 on 25/05/2020
 **书籍：**
 
 1. [可转债投资魔法书](https://github.com/ma-xin-rui/invest/blob/master/CB/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E9%AD%94%E6%B3%95%E4%B9%A6.xlsx)
-2. 待补充
+2. 攻守 可转债投资实用手册
 
 **数据分析：**
 
-1. [富投网](http://www.richvest.com/index.php?m=cb&a=cb_all#)
+1. [宁稳网](http://www.ninwin.cn/index.php?m=cb&a=cb_all)
 2. [集思录](https://www.jisilu.cn/data/cbnew/#cb)
 
 ## 1.3、可转债每周投资记录
 
 [目录](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record)
 
-1. [20200531](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record/20200531)
-2. [20200607](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record/20200607)
-3. [20200614](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record/20200614)
-4. [20200621](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record/20200621)
-5. [20200628](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record/20200628)
-6. [20200705](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record/20200705)
-7. [20200712](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record/20200712)
-8. [20200719](https://github.com/ma-xin-rui/invest/tree/master/CB/cb-invest-weekly-record/20200719)
+1. [20200531](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200531/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200531.md)
+2. [20200607](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200607/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200607.md)
+3. [20200614](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200614/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200614.md)
+4. [20200621](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200621/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200621.md)
+5. [20200628](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200628/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200628.md)
+6. [20200705](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200705/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200705.md)
+7. [20200712](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200712/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200712.md)
+8. [20200719](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200719/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200719.md)
+9. [20200726](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200726/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200726.md)
+10. [20200802](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200802/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200802.md)
+11. [20200809](https://github.com/ma-xin-rui/invest/blob/master/CB/cb-invest-weekly-record/20200809/%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%9520200809.md)
 
 # 2、基金定投
 
